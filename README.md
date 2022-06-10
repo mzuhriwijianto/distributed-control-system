@@ -1,4 +1,4 @@
-# dSistributed-Control-System
+# Distributed-Control-System
 
 # Cara Install
 npm i
